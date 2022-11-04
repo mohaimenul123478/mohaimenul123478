@@ -16,26 +16,7 @@ Thank you
 - 💬 Ask me about web design and development. 
 - 📫 How to reach me: https://www.linkedin.com/in/mohaimenul123478/ 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/mohaimenul123478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohaimenul123478" height="30" width="40" /></a>
 
-    <a href="https://twitter.com/mohaimenul1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohaimenul1234" height="30" width="40" /></a>
-
-    <a href="https://fb.com/mohaimenul123478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohaimenul123478" height="30" width="40" /></a>
-
-    <a href="https://instagram.com/mohaimenul123478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohaimenul123478" height="30" width="40" /></a>
-
-
-    <a href="https://codepen.io/mohaimenul123478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mohaimenul123478" height="30" width="40" /></a>
-
-    <a href="https://dribbble.com/mohaimenul123478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mohaimenul123478" height="30" width="40" /></a>
-
-    <a href="https://www.youtube.com/c/ucziaies2nw46yet_qfn-soa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucziaies2nw46yet_qfn-soa" height="30" width="40" /></a>
-
-
-    <a href="https://www.leetcode.com/mohaimenul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohaimenul" height="30" width="40" /></a>
-    </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
