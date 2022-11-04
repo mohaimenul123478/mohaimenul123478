@@ -44,6 +44,8 @@ Thank you
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohaimenul123478)](https://github.com/anuraghazra/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohaimenul123478&show_icons=true&locale=en&layout=compact" alt="mohaimenul123478" /></p>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohaimenul123478&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohaimenul123478)  
